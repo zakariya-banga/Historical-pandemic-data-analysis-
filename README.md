@@ -36,7 +36,8 @@ Based on the expected findings from this analysis, the following recommendation 
 	Pay special attention to high-risk regions that are more vulnerable to repeated outbreaks.
 	Utilize data and predictive analytics to forecast and prepare for future pandemics.
 Implementing these strategies can significantly reduce the impact of future health crises.
-CONCLUSION
+# CONCLUSION
+
 This project highlights the importance of transforming historical health data into meaningful and actionable insights. By leveraging data analysis and visualization tools, complex information can be presented in a clear and understandable way.
 A well-designed dashboard not only simplifies data interpretation but also supports informed decision-making for governments, health organizations, and researchers. Ultimately, this project demonstrates how data-driven approaches can help improve global preparedness, minimize risks, and protect lives in the event of future pandemics.
 
